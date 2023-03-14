@@ -1,0 +1,17 @@
+
+GET http://localhost:8080
+
+###
+GET http://localhost:8080/totalRecovered    
+
+###
+GET http://localhost:8080/totalActive  
+
+###
+GET http://localhost:8080/totalDeath
+
+###
+GET http://localhost:8080/hotspotStates
+
+###
+GET http://localhost:8080/healthyStates
